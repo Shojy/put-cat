@@ -1,0 +1,8 @@
+/Users/joshuamoon/Development/personal/Cats/bin/Debug/netcoreapp1.1/Cats.deps.json
+/Users/joshuamoon/Development/personal/Cats/bin/Debug/netcoreapp1.1/Cats.runtimeconfig.json
+/Users/joshuamoon/Development/personal/Cats/bin/Debug/netcoreapp1.1/Cats.runtimeconfig.dev.json
+/Users/joshuamoon/Development/personal/Cats/bin/Debug/netcoreapp1.1/Cats.dll
+/Users/joshuamoon/Development/personal/Cats/bin/Debug/netcoreapp1.1/Cats.pdb
+/Users/joshuamoon/Development/personal/Cats/obj/Debug/netcoreapp1.1/Cats.AssemblyInfo.cs
+/Users/joshuamoon/Development/personal/Cats/obj/Debug/netcoreapp1.1/Cats.dll
+/Users/joshuamoon/Development/personal/Cats/obj/Debug/netcoreapp1.1/Cats.pdb
